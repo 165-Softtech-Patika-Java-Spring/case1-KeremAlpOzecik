@@ -16,6 +16,7 @@ public class HomeDB {
         summerHouse.add(new SummerHouse(500000,2,1,90));
         summerHouse.add(new SummerHouse(1500000,5,2,190));
         summerHouse.add(new SummerHouse(5500000,7,4,300));
+        summerHouse.add(new SummerHouse(110000,1,1,50));
 
     }
 
